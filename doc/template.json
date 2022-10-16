@@ -1,0 +1,41 @@
+{
+    "paperId": "cc89d2d52383b2744c10c801ddffa18ed0f596ef",
+    "externalIds": {
+        "MAG": "1890063213",
+        "CorpusId": 129427689
+    },
+    "url": "https: //www.semanticscholar.org/paper/cc89d2d52383b2744c10c801ddffa18ed0f596ef",
+    "title": "Putting NASA Earth Data to Work",
+    "abstract": "Satellites orbiting Earth hundreds of miles above the planet’s surface are helping put information into the hands of people around the world who make critical decisions about protecting wildlife, responding to drought and identifying hazards to public health.",
+    "venue": "",
+    "year": 2015,
+    "referenceCount": 0,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "isOpenAccess": "False",
+    "fieldsOfStudy": [
+        "Geography"
+    ],
+    "s2FieldsOfStudy": [
+        {
+            "category": "Geography",
+            "source": "external"
+        },
+        {
+            "category": "Geology",
+            "source": "s2-fos-model"
+        }
+    ],
+    "publicationTypes": "None",
+    "publicationDate": "None",
+    "journal": {
+        "name": "",
+        "volume": ""
+    },
+    "authors": [
+        {
+            "authorId": "2058300823",
+            "name": "S. Cole"
+        }
+    ]
+}
